@@ -15,11 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="TStackList.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="TQueueList.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
+    <ClCompile Include="stackListTest.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

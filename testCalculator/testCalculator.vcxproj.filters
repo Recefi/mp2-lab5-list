@@ -15,11 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="TStackList.h">
+    <ClInclude Include="CalculatorList.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="TQueueList.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

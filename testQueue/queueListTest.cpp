@@ -1,5 +1,5 @@
 #include <iostream>
-#include "TQueueList.h"
+#include "..\Lab5\TQueueList.h"
 
 int main() {
 	TQueueList<int> q1;
@@ -27,7 +27,7 @@ int main() {
 		std::cout << "\n(q1 != q2)\n";
 
 
-	std::cout << "\nq2 = q1\n";
+	std::cout << "\nq2 = q1\n\n";
 	q2 = q1;
 
 	std::cout << "Queue1: " << q1 << "\n";
